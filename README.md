@@ -13,7 +13,7 @@ cdxj_util is a Python library for efficiently processing CDXJ (Compressed Dedupl
 ## Installation
 
 ```bash
-pip install cdxj_util
+pip install cdxj-util
 ```
 
 ## Usage
