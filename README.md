@@ -1,5 +1,13 @@
 # cdxj_util
 
+[![GitHub license](https://img.shields.io/github/license/r74tech/cdxj_util)](https://github.com/r74tech/cdxj_util/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/r74tech/cdxj_util)](https://github.com/r74tech/cdxj_util/issues)
+[![GitHub forks](https://img.shields.io/github/forks/r74tech/cdxj_util?style=flat)](https://github.com/r74tech/cdxj_util/network)
+[![GitHub Repo stars](https://img.shields.io/github/stars/r74tech/cdxj_util?style=flat)](https://github.com/r74tech/cdxj_util/stargazers)
+[![PyPI version](https://badge.fury.io/py/cdxj-util.svg)](https://badge.fury.io/py/cdxj-util)
+[![Python Versions](https://img.shields.io/pypi/pyversions/cdxj-util.svg)](https://pypi.org/project/cdxj-util/)
+[![Downloads](https://static.pepy.tech/badge/cdxj-util)](https://pepy.tech/project/cdxj-util)
+
 cdxj_util is a Python library for efficiently processing CDXJ (Compressed DeduplicateD Web Archive Index JSON) files. This library provides functionality for loading, searching, and analyzing large CDXJ files.
 
 ## Features
